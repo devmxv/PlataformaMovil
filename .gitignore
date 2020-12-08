@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Temp/UnityLockfile
+/Temp/UnityTempFile-5c13ff50725c90047adec6b71628f558
